@@ -32,7 +32,10 @@ Identified a Brute Force vulnerability on the website: https://juice-shop.heroku
 ## Supporting Material/References:
 
 https://drive.google.com/file/d/1BYfCcTyLB7Ds0v6ne00GwQzgW-fC-7r3/view?usp=sharing
-![Brute Force](xss.png)
+![Brute Force](bruteforce1.png)
+![Brute Force](bruteforce2.png)
+![Brute Force](bruteforce3.png)
+
 
 
 
