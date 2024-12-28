@@ -30,7 +30,7 @@ Identified an XSS vulnerability on the website: https://juice-shop.herokuapp.com
 ## Supporting Material/References:
 
 https://drive.google.com/file/d/1BYfCcTyLB7Ds0v6ne00GwQzgW-fC-7r3/view?usp=sharing
-![Brute Force]()
-![Brute Force]()
+![Brute Force](xss.png)
+
 
 
