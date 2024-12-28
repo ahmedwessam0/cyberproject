@@ -17,6 +17,27 @@ https://drive.google.com/file/d/1BYfCcTyLB7Ds0v6ne00GwQzgW-fC-7r3/view?usp=shari
 
 
 
+
+
+# Summary:
+
+Identified a Brute Force vulnerability on the website: https://juice-shop.herokuapp.com. Using a proxy setup with FoxyProxy and Burp Suite, I successfully enumerated admin credentials, gaining unauthorized access to the admin account.
+
+## Steps To Reproduce:
+1-Set up FoxyProxy in your browser to route traffic through Burp Suite.
+2- visit https://juice-shop.herokuapp.com/
+3- Navigate to the login page.
+4-Use Burp Suite's Intruder feature to perform a brute force attack on the admin credentials field.
+5-Observe successful enumeration of valid admin credentials, granting unauthorized access.
+## Supporting Material/References:
+
+https://drive.google.com/file/d/1BYfCcTyLB7Ds0v6ne00GwQzgW-fC-7r3/view?usp=sharing
+![Brute Force](xss.png)
+
+
+
+
+
 # Summary:
 
 Identified an XSS vulnerability on the website: https://juice-shop.herokuapp.com. I injected a malicious script in the search bar, leveraging the payload <iframe src="javascript:alert(`xss`)">. which successfully executed and demonstrated the vulnerability.
