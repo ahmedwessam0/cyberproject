@@ -13,4 +13,4 @@ found  sql injection via https://juice-shop.herokuapp.com in user login i used t
 
 https://drive.google.com/file/d/1BYfCcTyLB7Ds0v6ne00GwQzgW-fC-7r3/view?usp=sharing
 ![Brute Force](Enumeration1.png)
-![Brute Force](Enumeration2.png)
+![Brute Force](Enumeration_2.png)
